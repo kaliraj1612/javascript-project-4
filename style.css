@@ -1,0 +1,133 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0%;
+    margin: 0%;
+    background-color: black;
+    color: black;
+}
+
+.heading h1{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ height: 10vh;
+}
+
+.mainheader{
+    background-color: white;
+    width: 500px;
+    height: 650px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+
+.mainlabel{
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px;
+    margin: 10px;
+}
+.mainlabel input{
+    width: 250px;
+    height: 25px;
+}
+
+.mainlabel1{
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px;
+    margin: 10px;
+}
+.mainlabel1 input{
+    width: 250px;
+    height: 25px;
+    margin-left: 28px; 
+}
+
+.mainlabel2 {
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px;
+    margin: 10px;
+}
+.mainlabel2 input{
+    width: 250px;
+    height: 25px;
+    margin-left: 60px;
+}
+
+.mainlabel3{
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px;
+    margin: 10px;
+}
+.mainlabel3 input{
+    width: 250px;
+    height: 25px;
+    margin-left: 38px;
+}
+
+.mainlabel4{
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px;
+    margin: 10px;
+}
+.mainlabel4 input{
+    width: 280px;
+    height: 100px;
+}
+.btn{
+    margin-left: 70px;
+    margin-top: 30px;
+    width: 350px;
+    height: 50px;
+    background-color: black;
+    font-size: larger;
+    font-weight: 700;
+    color: white;
+}
+ 
+.message p{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+
+.message{
+    width: 200px;
+    height: 1px;
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
